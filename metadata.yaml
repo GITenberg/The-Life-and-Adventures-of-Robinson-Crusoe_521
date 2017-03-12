@@ -1,5 +1,5 @@
 _repo: The-Life-and-Adventures-of-Robinson-Crusoe_521
-_version: 0.2.1
+_version: 0.2.2
 covers:
 - attribution: J.D. Reeves, 2015
   cover_type: original
@@ -19,6 +19,8 @@ creator:
     wikipedia:
     - http://www.gutenberg.org/browse/authors/j#a26500
     - http://en.wikipedia.org/wiki/Daniel_Defoe
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/521#The-Life-and-Adventures-of-Robinson-Crusoe
 gutenberg_issued: '1996-05-01'
 gutenberg_type: Text
 identifiers:
