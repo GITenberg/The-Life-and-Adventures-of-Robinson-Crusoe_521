@@ -20,6 +20,7 @@ Author: Daniel Defoe
 
 Release Date: April 6, 2010  [eBook #521]
 Originally released: February 28, 1996
+Last Updated: November 16, 2016
 
 Language: English
 
@@ -2146,7 +2147,9 @@ and bringing home one of those posts, and a third day in driving it into
 the ground; for which purpose I got a heavy piece of wood at first, but
 at last bethought myself of one of the iron crows; which, however, though
 I found it, made driving those posts or piles very laborious and tedious
-work.  But what need I have been concerned at the tediousness of anything
+work.
+
+But what need I have been concerned at the tediousness of anything
 I had to do, seeing I had time enough to do it in? nor had I any other
 employment, if that had been over, at least that I could foresee, except
 the ranging the island to seek for food, which I did, more or less, every
@@ -2510,8 +2513,8 @@ upon the little green at my door, and would not go away.  This was the
 first time that I entertained a thought of breeding up some tame
 creatures, that I might have food when my powder and shot was all spent.
 
-_Dec._ 28,29,30,31.--Great heats, and no breeze, so that there was no
-stirring abroad, except in the evening, for food; this time I spent in
+_Dec._ 28,29,30.--Great heats and no breeze, so that there was no
+stirring abroad, except in the evening for food; this time I spent in
 putting all my things in order within doors.
 
 _January_ 1.--Very hot still: but I went abroad early and late with my
@@ -6367,46 +6370,50 @@ be, looked out oftener, and did not go abroad so much; and if at any time
 I did stir with any freedom, it was always to the east part of the
 island, where I was pretty well satisfied the savages never came, and
 where I could go without so many precautions, and such a load of arms and
-ammunition as I always carried with me if I went the other way.  I lived
-in this condition near two years more; but my unlucky head, that was
-always to let me know it was born to make my body miserable, was all
+ammunition as I always carried with me if I went the other way.
+
+I lived in this condition near two years more; but my unlucky head, that
+was always to let me know it was born to make my body miserable, was all
 these two years filled with projects and designs how, if it were
 possible, I might get away from this island: for sometimes I was for
 making another voyage to the wreck, though my reason told me that there
 was nothing left there worth the hazard of my voyage; sometimes for a
-ramble one way, sometimes another--and I believe verily, if I had had the
-boat that I went from Sallee in, I should have ventured to sea, bound
-anywhere, I knew not whither.  I have been, in all my circumstances, a
-memento to those who are touched with the general plague of mankind,
-whence, for aught I know, one half of their miseries flow: I mean that of
-not being satisfied with the station wherein God and Nature hath placed
-them--for, not to look back upon my primitive condition, and the
-excellent advice of my father, the opposition to which was, as I may call
-it, my _original sin_, my subsequent mistakes of the same kind had been
-the means of my coming into this miserable condition; for had that
-Providence which so happily seated me at the Brazils as a planter blessed
-me with confined desires, and I could have been contented to have gone on
-gradually, I might have been by this time--I mean in the time of my being
-in this island--one of the most considerable planters in the
-Brazils--nay, I am persuaded, that by the improvements I had made in that
-little time I lived there, and the increase I should probably have made
-if I had remained, I might have been worth a hundred thousand
-moidores--and what business had I to leave a settled fortune, a
-well-stocked plantation, improving and increasing, to turn supercargo to
-Guinea to fetch negroes, when patience and time would have so increased
-our stock at home, that we could have bought them at our own door from
-those whose business it was to fetch them? and though it had cost us
-something more, yet the difference of that price was by no means worth
-saving at so great a hazard.  But as this is usually the fate of young
-heads, so reflection upon the folly of it is as commonly the exercise of
-more years, or of the dear-bought experience of time--so it was with me
-now; and yet so deep had the mistake taken root in my temper, that I
-could not satisfy myself in my station, but was continually poring upon
-the means and possibility of my escape from this place; and that I may,
-with greater pleasure to the reader, bring on the remaining part of my
-story, it may not be improper to give some account of my first
-conceptions on the subject of this foolish scheme for my escape, and how,
-and upon what foundation, I acted.
+ramble one way, sometimes another--and I believe verily, if I had had
+the boat that I went from Sallee in, I should have ventured to sea,
+bound anywhere, I knew not whither.
+
+I have been, in all my circumstances, a memento to those who are touched
+with the general plague of mankind, whence, for aught I know, one half
+of their miseries flow: I mean that of not being satisfied with the
+station wherein God and Nature hath placed them--for, not to look back
+upon my primitive condition, and the excellent advice of my father, the
+opposition to which was, as I may call it, my _original sin_, my
+subsequent mistakes of the same kind had been the means of my coming
+into this miserable condition; for had that Providence which so happily
+seated me at the Brazils as a planter blessed me with confined desires,
+and I could have been contented to have gone on gradually, I might have
+been by this time--I mean in the time of my being in this island--one of
+the most considerable planters in the Brazils--nay, I am persuaded, that
+by the improvements I had made in that little time I lived there, and
+the increase I should probably have made if I had remained, I might have
+been worth a hundred thousand moidores--and what business had I to leave
+a settled fortune, a well-stocked plantation, improving and increasing,
+to turn supercargo to Guinea to fetch negroes, when patience and time
+would have so increased our stock at home, that we could have bought
+them at our own door from those whose business it was to fetch them? and
+though it had cost us something more, yet the difference of that price
+was by no means worth saving at so great a hazard.
+
+But as this is usually the fate of young heads, so reflection upon the
+folly of it is as commonly the exercise of more years, or of the dear-
+bought experience of time--so it was with me now; and yet so deep had
+the mistake taken root in my temper, that I could not satisfy myself in
+my station, but was continually poring upon the means and possibility of
+my escape from this place; and that I may, with greater pleasure to the
+reader, bring on the remaining part of my story, it may not be improper
+to give some account of my first conceptions on the subject of this
+foolish scheme for my escape, and how, and upon what foundation, I
+acted.
 
 I am now to be supposed retired into my castle, after my late voyage to
 the wreck, my frigate laid up and secured under water, as usual, and my
@@ -6419,8 +6426,9 @@ four-and-twentieth year of my first setting foot in this island of
 solitude, I was lying in my bed or hammock, awake, very well in health,
 had no pain, no distemper, no uneasiness of body, nor any uneasiness of
 mind more than ordinary, but could by no means close my eyes, that is, so
-as to sleep; no, not a wink all night long, otherwise than as follows: It
-is impossible to set down the innumerable crowd of thoughts that whirled
+as to sleep; no, not a wink all night long, otherwise than as follows:
+
+It is impossible to set down the innumerable crowd of thoughts that whirled
 through that great thoroughfare of the brain, the memory, in this night's
 time.  I ran over the whole history of my life in miniature, or by
 abridgment, as I may call it, to my coming to this island, and also of
@@ -6474,8 +6482,8 @@ myself when I went thither; what would become of me if I fell into the
 hands of these savages; or how I should escape them if they attacked me;
 no, nor so much as how it was possible for me to reach the coast, and not
 to be attacked by some or other of them, without any possibility of
-delivering myself: and if I should not fall into their hands, what I
-should do for provision, or whither I should bend my course: none of
+delivering myself; and if I should not fall into their hands, what I
+should do for provision, or whither I should bend my course; none of
 these thoughts, I say, so much as came in my way; but my mind was wholly
 bent upon the notion of my passing over in my boat to the mainland.  I
 looked upon my present condition as the most miserable that could
@@ -6732,7 +6740,7 @@ round and plump; his nose small, not flat, like the negroes; a very good
 mouth, thin lips, and his fine teeth well set, and as white as ivory.
 
 After he had slumbered, rather than slept, about half-an-hour, he awoke
-again, and came out of the cave to me: for I had been milking my goats
+again, and came out of the cave to me, for I had been milking my goats
 which I had in the enclosure just by: when he espied me he came running
 to me, laying himself down again upon the ground, with all the possible
 signs of an humble, thankful disposition, making a great many antic
@@ -6742,10 +6750,10 @@ before; and after this made all the signs to me of subjection, servitude,
 and submission imaginable, to let me know how he would serve me so long
 as he lived.  I understood him in many things, and let him know I was
 very well pleased with him.  In a little time I began to speak to him;
-and teach him to speak to me: and first, I let him know his name should
-be Friday, which was the day I saved his life: I called him so for the
+and teach him to speak to me; and first, I let him know his name should
+be Friday, which was the day I saved his life; I called him so for the
 memory of the time.  I likewise taught him to say Master; and then let
-him know that was to be my name: I likewise taught him to say Yes and No
+him know that was to be my name; I likewise taught him to say Yes and No
 and to know the meaning of them.  I gave him some milk in an earthen pot,
 and let him see me drink it before him, and sop my bread in it; and gave
 him a cake of bread to do the like, which he quickly complied with, and
@@ -9237,7 +9245,9 @@ thousand two hundred chests of sugar, eight hundred rolls of tobacco, and
 the rest of the whole account in gold.
 
 I might well say now, indeed, that the latter end of Job was better than
-the beginning.  It is impossible to express the flutterings of my very
+the beginning.
+
+It is impossible to express the flutterings of my very
 heart when I found all my wealth about me; for as the Brazil ships come
 all in fleets, the same ships which brought my letters brought my goods:
 and the effects were safe in the river before the letters came to my
@@ -9643,58 +9653,62 @@ as on the mountains; and the ravenous creatures, as we heard afterwards,
 were come down into the forest and plain country, pressed by hunger, to
 seek for food, and had done a great deal of mischief in the villages,
 where they surprised the country people, killed a great many of their
-sheep and horses, and some people too.  We had one dangerous place to
-pass, and our guide told us if there were more wolves in the country we
-should find them there; and this was a small plain, surrounded with woods
-on every side, and a long, narrow defile, or lane, which we were to pass
-to get through the wood, and then we should come to the village where we
-were to lodge.  It was within half-an-hour of sunset when we entered the
-wood, and a little after sunset when we came into the plain: we met with
-nothing in the first wood, except that in a little plain within the wood,
-which was not above two furlongs over, we saw five great wolves cross the
-road, full speed, one after another, as if they had been in chase of some
-prey, and had it in view; they took no notice of us, and were gone out of
-sight in a few moments.  Upon this, our guide, who, by the way, was but a
-fainthearted fellow, bid us keep in a ready posture, for he believed
-there were more wolves a-coming.  We kept our arms ready, and our eyes
-about us; but we saw no more wolves till we came through that wood, which
-was near half a league, and entered the plain.  As soon as we came into
-the plain, we had occasion enough to look about us.  The first object we
-met with was a dead horse; that is to say, a poor horse which the wolves
-had killed, and at least a dozen of them at work, we could not say eating
-him, but picking his bones rather; for they had eaten up all the flesh
-before.  We did not think fit to disturb them at their feast, neither did
-they take much notice of us.  Friday would have let fly at them, but I
-would not suffer him by any means; for I found we were like to have more
-business upon our hands than we were aware of.  We had not gone half over
-the plain when we began to hear the wolves howl in the wood on our left
-in a frightful manner, and presently after we saw about a hundred coming
-on directly towards us, all in a body, and most of them in a line, as
-regularly as an army drawn up by experienced officers.  I scarce knew in
-what manner to receive them, but found to draw ourselves in a close line
-was the only way; so we formed in a moment; but that we might not have
-too much interval, I ordered that only every other man should fire, and
-that the others, who had not fired, should stand ready to give them a
-second volley immediately, if they continued to advance upon us; and then
-that those that had fired at first should not pretend to load their
-fusees again, but stand ready, every one with a pistol, for we were all
-armed with a fusee and a pair of pistols each man; so we were, by this
-method, able to fire six volleys, half of us at a time; however, at
-present we had no necessity; for upon firing the first volley, the enemy
-made a full stop, being terrified as well with the noise as with the
-fire.  Four of them being shot in the head, dropped; several others were
-wounded, and went bleeding off, as we could see by the snow.  I found
-they stopped, but did not immediately retreat; whereupon, remembering
-that I had been told that the fiercest creatures were terrified at the
-voice of a man, I caused all the company to halloo as loud as they could;
-and I found the notion not altogether mistaken; for upon our shout they
-began to retire and turn about.  I then ordered a second volley to be
-fired in their rear, which put them to the gallop, and away they went to
-the woods.  This gave us leisure to charge our pieces again; and that we
-might lose no time, we kept going; but we had but little more than loaded
-our fusees, and put ourselves in readiness, when we heard a terrible
-noise in the same wood on our left, only that it was farther onward, the
-same way we were to go.
+sheep and horses, and some people too.
+
+We had one dangerous place to pass, and our guide told us if there were
+more wolves in the country we should find them there; and this was a
+small plain, surrounded with woods on every side, and a long, narrow
+defile, or lane, which we were to pass to get through the wood, and then
+we should come to the village where we were to lodge.
+
+It was within half-an-hour of sunset when we entered the wood, and a
+little after sunset when we came into the plain: we met with nothing in
+the first wood, except that in a little plain within the wood, which was
+not above two furlongs over, we saw five great wolves cross the road,
+full speed, one after another, as if they had been in chase of some
+prey, and had it in view; they took no notice of us, and were gone out
+of sight in a few moments.  Upon this, our guide, who, by the way, was
+but a fainthearted fellow, bid us keep in a ready posture, for he
+believed there were more wolves a-coming.  We kept our arms ready, and
+our eyes about us; but we saw no more wolves till we came through that
+wood, which was near half a league, and entered the plain.  As soon as
+we came into the plain, we had occasion enough to look about us.  The
+first object we met with was a dead horse; that is to say, a poor horse
+which the wolves had killed, and at least a dozen of them at work, we
+could not say eating him, but picking his bones rather; for they had
+eaten up all the flesh before. We did not think fit to disturb them at
+their feast, neither did they take much notice of us.  Friday would have
+let fly at them, but I would not suffer him by any means; for I found we
+were like to have more business upon our hands than we were aware of.
+We had not gone half over the plain when we began to hear the wolves
+howl in the wood on our left in a frightful manner, and presently after
+we saw about a hundred coming on directly towards us, all in a body, and
+most of them in a line, as regularly as an army drawn up by experienced
+officers.  I scarce knew in what manner to receive them, but found to
+draw ourselves in a close line was the only way; so we formed in a
+moment; but that we might not have too much interval, I ordered that
+only every other man should fire, and that the others, who had not
+fired, should stand ready to give them a second volley immediately, if
+they continued to advance upon us; and then that those that had fired at
+first should not pretend to load their fusees again, but stand ready,
+every one with a pistol, for we were all armed with a fusee and a pair
+of pistols each man; so we were, by this method, able to fire six
+volleys, half of us at a time; however, at present we had no necessity;
+for upon firing the first volley, the enemy made a full stop, being
+terrified as well with the noise as with the fire.  Four of them being
+shot in the head, dropped; several others were wounded, and went
+bleeding off, as we could see by the snow.  I found they stopped, but
+did not immediately retreat; whereupon, remembering that I had been told
+that the fiercest creatures were terrified at the voice of a man, I
+caused all the company to halloo as loud as they could; and I found the
+notion not altogether mistaken; for upon our shout they began to retire
+and turn about.  I then ordered a second volley to be fired in their
+rear, which put them to the gallop, and away they went to the woods.
+This gave us leisure to charge our pieces again; and that we might lose
+no time, we kept going; but we had but little more than loaded our
+fusees, and put ourselves in readiness, when we heard a terrible noise
+in the same wood on our left, only that it was farther onward, the same
+way we were to go.
 
 The night was coming on, and the light began to be dusky, which made it
 worse on our side; but the noise increasing, we could easily perceive
@@ -9702,17 +9716,17 @@ that it was the howling and yelling of those hellish creatures; and on a
 sudden we perceived three troops of wolves, one on our left, one behind
 us, and one in our front, so that we seemed to be surrounded with them:
 however, as they did not fall upon us, we kept our way forward, as fast
-as we could make our horses go, which, the way being very rough, was only
-a good hard trot.  In this manner, we came in view of the entrance of a
-wood, through which we were to pass, at the farther side of the plain;
-but we were greatly surprised, when coming nearer the lane or pass, we
-saw a confused number of wolves standing just at the entrance.  On a
-sudden, at another opening of the wood, we heard the noise of a gun, and
-looking that way, out rushed a horse, with a saddle and a bridle on him,
-flying like the wind, and sixteen or seventeen wolves after him, full
-speed: the horse had the advantage of them; but as we supposed that he
-could not hold it at that rate, we doubted not but they would get up with
-him at last: no question but they did.
+as we could make our horses go, which, the way being very rough, was
+only a good hard trot.  In this manner, we came in view of the entrance
+of a wood, through which we were to pass, at the farther side of the
+plain; but we were greatly surprised, when coming nearer the lane or
+pass, we saw a confused number of wolves standing just at the entrance.
+On a sudden, at another opening of the wood, we heard the noise of a
+gun, and looking that way, out rushed a horse, with a saddle and a
+bridle on him, flying like the wind, and sixteen or seventeen wolves
+after him, full speed: the horse had the advantage of them; but as we
+supposed that he could not hold it at that rate, we doubted not but they
+would get up with him at last: no question but they did.
 
 But here we had a most horrible sight; for riding up to the entrance
 where the horse came out, we found the carcasses of another horse and of
